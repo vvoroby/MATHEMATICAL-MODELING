@@ -21,7 +21,3 @@ https://colab.research.google.com/drive/1YlmNgIJZYp4owDQvpV4Try93XGD4Hz8b?usp=sh
 
 Аттрактор Лоренца.
 https://colab.research.google.com/drive/1jLFMeHNl9TTgD7WVy2ZUnes3EFPRTlQX?usp=sharing
-
-
-Аттрактор Лоренца.
-https://colab.research.google.com/drive/1jLFMeHNl9TTgD7WVy2ZUnes3EFPRTlQX?usp=sharing

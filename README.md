@@ -17,6 +17,10 @@ https://colab.research.google.com/drive/1of6xkLbtzoOCayOsUCqPaLuRErojbWfn?usp=sh
 https://colab.research.google.com/drive/1yn40crKD_WdM57tgoH6taLT8X83uGpYu?usp=sharing
 
 Численный анализ модели Лотки-Вольтерра.
+https://colab.research.google.com/drive/1YlmNgIJZYp4owDQvpV4Try93XGD4Hz8b?usp=sharing
+
+Аттрактор Лоренца.
+https://colab.research.google.com/drive/1jLFMeHNl9TTgD7WVy2ZUnes3EFPRTlQX?usp=sharing
 
 
 Аттрактор Лоренца.

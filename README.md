@@ -1,5 +1,5 @@
 # MATHEMATICAL-MODELING
-University course: mathematical modeling.5th semester.
+University course: mathematical modeling. 5th semester.
 
 Статические модели. Производственная функциия Кобба-Дугласа.
 https://colab.research.google.com/drive/1DZe4EQ9GioO1QuPEf5VJdgyU7N7FLlSj?usp=sharing

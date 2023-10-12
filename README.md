@@ -21,3 +21,6 @@ https://colab.research.google.com/drive/1YlmNgIJZYp4owDQvpV4Try93XGD4Hz8b?usp=sh
 
 Аттрактор Лоренца.
 https://colab.research.google.com/drive/1jLFMeHNl9TTgD7WVy2ZUnes3EFPRTlQX?usp=sharing
+
+Конкуренция двух видов.
+https://colab.research.google.com/drive/1nQxgNDo-lfet4DIYOL4DFe85OodMJ1s8?usp=sharing
